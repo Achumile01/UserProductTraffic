@@ -1,8 +1,8 @@
-## ExcelPracticeDB
+## UserProductTraffic
 
 ## Overview
 
-ExcelPracticeDB is a SQL Server project created to practice SQL queries and data analysis using a sample e-commerce dataset. The project focuses on analyzing user behavior, product performance, and marketing traffic sources.
+UserProductTraffic is a SQL Server project created to practice SQL queries and data analysis using a sample e-commerce dataset. The project focuses on analyzing user behavior, product performance, and marketing traffic sources.
 
 The database demonstrates SQL skills commonly used by data analysts, including filtering, grouping, aggregations, views, and reporting.
 
